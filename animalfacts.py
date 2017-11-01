@@ -2058,6 +2058,11 @@ TIGER_FACTS = (
     'Tigers that breed with lions give birth to hybrids known as tigons and ligers.',
     )
 
+BISON_FACTS=(
+    'The bison has long shaggy brown fur, a mane and beard under its chin. It has a big head with short black horns and a hump on its shoulders.'
+    'An adult bison can weigh up to 2,000 pounds and stand 6 feet tall.',
+    'Bison may be big, but they’re also fast. They can run up to 35 miles per hour.They’re extremely agile. ',
+
 TURTLE_FACTS = (
     'Turtles have a hard shell that protects them like a shield, this upper shell is called a ‘carapace’.',
     'Turtles also have a lower shell called a ‘plastron’.',
